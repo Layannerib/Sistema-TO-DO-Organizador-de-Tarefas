@@ -26,7 +26,7 @@ def adicionar_tarefa(lista_tarefas):
             break
 
 
-# ---------------- PROGRAMA PRINCIPAL ----------------
+# --------------- PROGRAMA PRINCIPAL ---------------
 
 def main():
     tarefas = []
